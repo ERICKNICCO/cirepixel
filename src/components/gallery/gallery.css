@@ -1,0 +1,36 @@
+/* gallery.css */
+
+/* For screens with a width of 800px or more */
+.images {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.8rem;
+}
+
+/* For screens with a width between 600px and 799px */
+@media screen and (max-width: 799px) {
+  .images {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* For screens with a width of 599px or less */
+@media screen and (max-width: 599px) {
+  .images {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.image {
+  overflow: hidden;
+  border-radius: 0.5rem;
+  padding: 3rem 4rem;
+  background-color: var(--container-color);
+}
+
+.image img {
+  max-width: 80%; /* Make the images 80% of their container width */
+  height: auto;
+  display: block;
+  border: 1px solid rgba(0, 0, 0, 0.1); /* Border around the image */
+}
