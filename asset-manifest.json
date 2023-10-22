@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cirepixel/static/css/main.0e6d6c8f.css",
+    "main.js": "/cirepixel/static/js/main.b64c9a3b.js",
+    "static/js/787.5809834d.chunk.js": "/cirepixel/static/js/787.5809834d.chunk.js",
+    "static/media/image6.jpg": "/cirepixel/static/media/image6.8fd143eb724eada2edef.jpg",
+    "static/media/profile.jpg": "/cirepixel/static/media/profile.3c9c47737bcb837bb18b.jpg",
+    "static/media/image3.jpg": "/cirepixel/static/media/image3.1d0f1bb895fb28b8a044.jpg",
+    "static/media/image5.jpg": "/cirepixel/static/media/image5.2a9500241dfa823fe1d3.jpg",
+    "static/media/image1.jpg": "/cirepixel/static/media/image1.c0e286a37a1adc2d1dd3.jpg",
+    "static/media/image4.jpg": "/cirepixel/static/media/image4.e8bc8ddf179abc5b30ed.jpg",
+    "static/media/about.jpg": "/cirepixel/static/media/about.03a789955df74d7e6708.jpg",
+    "static/media/image2.jpg": "/cirepixel/static/media/image2.67876b0559cdd84c60c3.jpg",
+    "static/media/John-Cv.pdf": "/cirepixel/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/cirepixel/index.html",
+    "main.0e6d6c8f.css.map": "/cirepixel/static/css/main.0e6d6c8f.css.map",
+    "main.b64c9a3b.js.map": "/cirepixel/static/js/main.b64c9a3b.js.map",
+    "787.5809834d.chunk.js.map": "/cirepixel/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6d6c8f.css",
+    "static/js/main.b64c9a3b.js"
+  ]
+}
